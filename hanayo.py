@@ -1,6 +1,8 @@
 #!/usr/bin/python
 
 import time
+import os
+clear = lambda: os.system("cls")
 while True:
     try:
         n = input("Please enter the secret code to use the program: ")
@@ -71,9 +73,13 @@ print(if_disabled)
 
 # Finishing
 ask_port=input(color_white + "Enter port: ")
-time.sleep(5)
+time.sleep(4)
+clear()
 print(color_violet + "> Hanayo is listening for clients on " +ask_port)
+print("")
 print( color_yellow + "  ░▒▓█ H A N A Y O RUNNING... █▓▒░")
-print(color_green + """Welcome To Ripple's Frontend Hanayo!
-   Created By The Ripple Team
-       Made By Uniminin ツ""")
+print("")
+print("")
+print(color_green + """ Welcome To Ripple's Frontend Hanayo!
+    Created By The Ripple Team
+        Made By Uniminin """)
