@@ -6,5 +6,9 @@ This repo contains all my python exercises
 # Built in constants:
 * Website: https://docs.python.org/3/library/constants.html
 
+# Infos (WIP)
 to print any message print("test")
 boolean values , false = (), 0, none, ""
+
+# Youtube Links; Python Tutorial:
+https://www.youtube.com/playlist?list=PLkAPQo37HTHW6p4czv9ehA2EGLGLm8glG
