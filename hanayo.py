@@ -2,7 +2,7 @@
 
 import time
 import os
-clear = lambda: os.system("cls")
+clear = lambda: os.system("clear")
 while True:
     try:
         n = input("Please enter the secret code to use the program: ")
