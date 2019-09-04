@@ -24,3 +24,4 @@ while True:
         ubuntu.system('TAGS="bindata" make generate build')
         ubuntu.system("./gitea web")
         break
+print("Done Installing Gitea!")
