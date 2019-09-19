@@ -1,6 +1,8 @@
 # Python-Exercise
 This repo contains all my python exercises
 
+# PIP: Python Package Manager
+* https://pypi.org/project/pip
 # All Python Built In Functions:
 * Website(Python): https://docs.python.org/3/library/functions.html
 # Built in constants:
