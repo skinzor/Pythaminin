@@ -2,7 +2,7 @@
 This repo contains all my python exercises
 
 <p align="center">
-  <img src="https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/ripple.svg"/>
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 </p>
 
 ### PIP: Python Package Manager
