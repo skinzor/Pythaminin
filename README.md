@@ -2,7 +2,7 @@
 This repo contains all my python exercises
 
 <p align="center">
-  <img src="http://www.vizteams.com/wp-content/uploads/2013/08/python-logo-master.png"/>
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 </p>
 
 ### PIP: Python Package Manager
