@@ -5,16 +5,25 @@ This repo contains all my python exercises
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 </p>
 
+### Learn Python the Right and Easy Way
+* https://docs.python.org/3/
+
 ### PIP: Python Package Manager
 * https://pypi.org/project/pip
+
 ### All Python Built In Functions:
 * Website(Python): https://docs.python.org/3/library/functions.html
+
 ### Built in constants:
 * Website: https://docs.python.org/3/library/constants.html
 
-### Infos (WIP)
-to print any message print("test")
-boolean values , false = (), 0, none, ""
-
 ### Youtube Links; Python Tutorial:
-My Playlists.
+- https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLkAPQo37HTHW6p4czv9ehA2EGLGLm8glG
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu
+- https://www.youtube.com/playlist?list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n
+- https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK
+- https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA
+- https://www.youtube.com/playlist?list=PLTTTcaxrixZSh3TyvoEoTTbEHyS4c6Su7
+
+Note: `I would prefer newbies to learn python3.X and don't learn 2.X as it will be deprecated soon.`
