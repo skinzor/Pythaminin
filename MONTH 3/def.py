@@ -12,3 +12,9 @@ def print_string(str):
     print(str)
     return
 print_string(69, string)
+
+
+def userinfo(name, age, email):
+    print(name, age, email)
+    return
+userinfo(name="Testy", age="69", email="test@example.com")
