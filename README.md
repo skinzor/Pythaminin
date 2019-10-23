@@ -7,6 +7,7 @@ This repo contains all my python exercises
 
 ### Learn Python the Right and Easy Way
 * https://docs.python.org/3/
+* https://learnxinyminutes.com/docs/python3/
 
 ### PIP: Python Package Manager
 * https://pypi.org/project/pip
