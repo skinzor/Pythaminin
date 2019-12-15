@@ -1,4 +1,4 @@
-###### Simple 2 Number Calculator By Copyright @Uniminin #####
+#####       Simple 2 Number Calculator By Uniminin        ####
 #### PERMISSION IS HEREBY GRANTED TO ANY COPYRIGHT HOLDER ####
 
 print(" S I M P L E  C A L C U L A T O R  M5 ")
