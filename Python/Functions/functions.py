@@ -34,3 +34,8 @@ def get(name):
     return "you are " + name
 
 print(get("tony"))
+
+def greet(greet, name):
+    print(f"{greet}, {name}")
+    
+greet("hi","tony")
