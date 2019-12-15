@@ -7,6 +7,7 @@ This repo contains all my python exercises
 
 ### Learn Python. Nina Zakharenko (MICROSOFT)
 https://www.learnpython.dev/
+https://github.com/nnja/python
 
 ### Learn Python the Right and Easy Way
 * https://docs.python.org/3/
