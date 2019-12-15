@@ -5,6 +5,9 @@ This repo contains all my python exercises
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 </p>
 
+### Learn Python. Nina Zakharenko (MICROSOFT)
+https://www.learnpython.dev/
+
 ### Learn Python the Right and Easy Way
 * https://docs.python.org/3/
 * https://learnxinyminutes.com/docs/python3/
