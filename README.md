@@ -9,6 +9,9 @@ This repo contains all my python exercises
 https://www.learnpython.dev/
 https://github.com/nnja/python
 
+### Built in function
+https://data-flair.training/blogs/python-built-in-functions/
+
 ### Learn Python the Right and Easy Way
 * https://docs.python.org/3/
 * https://learnxinyminutes.com/docs/python3/
