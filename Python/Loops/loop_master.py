@@ -100,3 +100,12 @@ while True:
     num += 1
     if num == 3:
         break
+        
+def special_id(id):
+    for ids in id:
+        print(ids)
+    if '69' in id:
+        return('Found the special ID: 69')
+
+id = ('1', '2', '3', '4', '69')
+print(special_id(id))
