@@ -18,3 +18,5 @@ round(316.333, -1)
 #> 320.0
 round(21.20, -1)
 #> 20.0
+
+print(100 % 3) # remainder (division)
