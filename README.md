@@ -5,6 +5,9 @@ This repo contains all my python exercises
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 </p>
 
+### pep8
+https://www.python.org/dev/peps/pep-0008/
+
 ### Learn Python. Nina Zakharenko (MICROSOFT)
 https://www.learnpython.dev/
 https://github.com/nnja/python
