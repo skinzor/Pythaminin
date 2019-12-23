@@ -4,6 +4,9 @@ This repo contains all my python exercises
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 </p>
+### IDE/ML Autocompleter/Helper
+https://www.jetbrains.com/pycharm/
+https://kite.com/
 
 ### pep8
 https://www.python.org/dev/peps/pep-0008/
