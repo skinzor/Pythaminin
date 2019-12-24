@@ -4,6 +4,10 @@ This repo contains all my python exercises
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 </p>
+
+### Handy
+`python -i filename.py` <== executes the python file and after finishing it starts python interpreter in terminal.(cont)
+
 ### IDE/ML Autocompleter/Helper
 https://www.jetbrains.com/pycharm/
 https://kite.com/
