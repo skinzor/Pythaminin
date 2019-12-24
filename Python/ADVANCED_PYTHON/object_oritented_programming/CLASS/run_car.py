@@ -5,3 +5,5 @@ Car.get_number_of_wheels()
 print(tesla.get_number_of_wheels())
 tesla.start()
 
+print(str(tesla))
+print(repr(tesla))
