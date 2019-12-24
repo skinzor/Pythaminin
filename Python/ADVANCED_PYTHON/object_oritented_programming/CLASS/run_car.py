@@ -1,7 +1,7 @@
 from car import Car
 
 tesla = Car('Tesla')
-print(tesla.name)
-tesla.run = False
+Car.get_number_of_wheels()
+print(tesla.get_number_of_wheels())
 tesla.start()
 
