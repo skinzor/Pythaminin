@@ -12,6 +12,8 @@ print(isinstance(True, int))
 # Don't do this in production code, it's pretty bad!!!
 print(True + True)
 print(True + True + True + 1 + True + True * 5)
+print(True + 68)
+print(False - 69)
 
 
 ###
