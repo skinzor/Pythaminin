@@ -2,7 +2,7 @@
 
 class Vehicle:
 
-    def __init__(self, name, model, owner, fuel='diessel'):
+    def __init__(self, name, model, owner, fuel='diesel'):
         self.name = name
         self.model = model
         self.owner = owner
