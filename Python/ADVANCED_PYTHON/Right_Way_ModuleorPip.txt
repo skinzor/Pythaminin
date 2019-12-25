@@ -17,5 +17,8 @@ so..
 python3 -m pip install -r requirements.txt
 pip3 install -r requirements.txt
 
+# you can search with (pip)
+python3 -m pip search module_name
+
 # Got it m8?
 I wish you all the best
