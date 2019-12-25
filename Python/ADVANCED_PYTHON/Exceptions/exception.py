@@ -23,3 +23,10 @@ while True:
 
     except KeyboardInterrupt:
         exit()
+
+# Better to be specific than general, when handling errors/exception
+# don't do this>
+try:
+    int('dont')
+except Exception:
+    pass
