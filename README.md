@@ -22,6 +22,10 @@ https://kite.com/
 ### pep8
 https://www.python.org/dev/peps/pep-0008/
 
+### Testscase assertions/Tests
+https://www.learnpython.dev/03-intermediate-python/70-tests/50-writing-tests/#testcase-assertions
+https://www.learnpython.dev/03-intermediate-python/70-tests/50-writing-tests/
+
 ### OS, Sys and Subprocess (execute system cmds in/from python); useful
 https://docs.python.org/3/library/os.html
 https://docs.python.org/3/library/sys.html
