@@ -44,4 +44,4 @@ https://data-flair.training/blogs/python-built-in-functions/
 - https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA
 - https://www.youtube.com/playlist?list=PLTTTcaxrixZSh3TyvoEoTTbEHyS4c6Su7
 
-Note: `I would prefer newbies to learn python3.X and don't learn 2.X as it will be deprecated soon.`
+Note: `I would prefer newbies to learn python3.X and don't learn 2.X as it will be deprecated soon.(2020)`
