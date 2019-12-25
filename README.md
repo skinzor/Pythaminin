@@ -8,6 +8,9 @@ This repo contains all my python exercises
 ### Handy
 `python -i filename.py` <== executes the python file and after finishing it starts python interpreter in terminal.(cont)
 
+### Exception/Handling
+https://www.learnpython.dev/03-intermediate-python/40-exceptions/10-all-about-exceptions/
+
 ### IDE/ML Autocompleter/Helper
 https://www.jetbrains.com/pycharm/
 https://kite.com/
