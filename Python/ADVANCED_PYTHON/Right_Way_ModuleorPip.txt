@@ -1,0 +1,21 @@
+## Right Way ##
+#to install any modules
+pip2 install -r module_name
+pip3 install -r module_name # Be specific with the version, pip3 or 2 for py2 or 3x
+but don't do those above
+
+# Preferred
+python3 -m pip install module_name
+python2 -m pip install module_name
+
+# to install multiple modules, create a file containing info of the modules. ex
+requirements.txt file contains:
+requests==2.2.1
+async==2.1.6
+
+so..
+python3 -m pip install -r requirements.txt
+pip3 install -r requirements.txt
+
+# Got it m8?
+I wish you all the best
