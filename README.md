@@ -22,6 +22,10 @@ https://kite.com/
 ### pep8
 https://www.python.org/dev/peps/pep-0008/
 
+### OS and Subprocess (execute system cmds in/from python); useful
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3/library/subprocess.html
+
 ### Learn Python. Nina Zakharenko (MICROSOFT)
 https://www.learnpython.dev/
 https://github.com/nnja/python
