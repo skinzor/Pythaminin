@@ -15,6 +15,9 @@ https://docs.python.org/3/library/
 https://www.learnpython.dev/03-intermediate-python/40-exceptions/10-all-about-exceptions/
 https://docs.python.org/3/tutorial/errors.html
 
+### Config stuff
+https://docs.python.org/3.4/library/configparser.html
+
 ### IDE/ML Autocompleter/Helper
 https://www.jetbrains.com/pycharm/
 https://kite.com/
