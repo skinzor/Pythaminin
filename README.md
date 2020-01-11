@@ -7,6 +7,7 @@ This repo contains all my python exercises
 
 ### Ultimate resources
 https://pythondiscord.com/pages/resources/
+https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 
 ### Handy
 `python -i filename.py` <== executes the python file and after finishing it starts python interpreter in terminal.(cont)
