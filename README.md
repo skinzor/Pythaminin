@@ -5,6 +5,9 @@ This repo contains all my python exercises
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 </p>
 
+### Ultimate resources
+https://pythondiscord.com/pages/resources/
+
 ### Handy
 `python -i filename.py` <== executes the python file and after finishing it starts python interpreter in terminal.(cont)
 
