@@ -13,6 +13,10 @@ class BOOK(object):
     def __len__(self):
         return self.pages
 
+    def __del__(self):
+        print("BOOK IS DELETED")
 
 book = BOOK('Python', 'uniminin', 199)
 print(len(book))
+
+del book
