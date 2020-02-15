@@ -1,5 +1,6 @@
 import psutil
 import time
+from datetime import datetime
 
 
 def checkIfProcessRunning(processName):
@@ -17,15 +18,16 @@ def checkIfProcessRunning(processName):
     return False
 
 
+print("--------OSU!LAZER LOGS--------")
 try:
     while True:
         if checkIfProcessRunning("dotnet"):
-            print("OSU!LAZER IS RUNNING.")
+            print(f"{datetime.now()}: OSU!LAZER IS RUNNING.")
             while checkIfProcessRunning("dotnet"):
-                time.sleep(0.1)
+                time.sleep(0.6)
         else:
-            print("OSU!LAZER IS NOT RUNNING")
+            print(f"{datetime.now()}: OSU!LAZER IS NOT RUNNING")
             while not checkIfProcessRunning("dotnet"):
-                time.sleep(0.1)
+                time.sleep(0.6)
 except KeyboardInterrupt:
     pass
