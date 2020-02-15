@@ -11,6 +11,7 @@ https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 
 ### Handy
 `python -i filename.py` <== executes the python file and after finishing it starts python interpreter in terminal.(cont)
+`time python yourprogram.py` execution time., `time -v python yourprogram.py` for more verbose ouput.
 
 ### Python Standard Library
 https://docs.python.org/3/library/
