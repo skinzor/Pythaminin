@@ -49,6 +49,7 @@ https://data-flair.training/blogs/python-built-in-functions/
 ### Learn Python the Right and Easy Way
 * https://docs.python.org/3/
 * https://learnxinyminutes.com/docs/python3/
+* https://www.tutorialspoint.com/python/
 
 ### PIP: Python Package Manager
 * https://pypi.org/project/pip
