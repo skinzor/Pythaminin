@@ -50,6 +50,8 @@ https://data-flair.training/blogs/python-built-in-functions/
 * https://docs.python.org/3/
 * https://learnxinyminutes.com/docs/python3/
 * https://www.tutorialspoint.com/python/
+* https://developers.google.com/edu/python/?hl=en
+
 
 ### PIP: Python Package Manager
 * https://pypi.org/project/pip
