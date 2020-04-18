@@ -17,4 +17,3 @@ def estimate_pi(n):
     return 4 * (num_point_circle / num_point_total)
 
 # print(estimate_pi(100000000))
-# got around 3.13163....
