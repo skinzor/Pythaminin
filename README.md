@@ -6,47 +6,48 @@ This repo contains all my python exercises
 </p>
 
 ### Ultimate resources
-https://pythondiscord.com/pages/resources/
-https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
-https://python.libhunt.com/
-https://github.com/charlax/python-education
+* https://pythondiscord.com/pages/resources/
+* https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+* https://python.libhunt.com/
+* https://github.com/charlax/python-education
+* https://realpython.com/
 
 ### Handy
 `python -i filename.py` <== executes the python file and after finishing it starts python interpreter in terminal.(cont)
 `time python yourprogram.py` execution time., `time -v python yourprogram.py` for more verbose ouput.
 
 ### Python Standard Library
-https://docs.python.org/3/library/
+* https://docs.python.org/3/library/
 
 ### Exception/Handling
-https://www.learnpython.dev/03-intermediate-python/40-exceptions/10-all-about-exceptions/
-https://docs.python.org/3/tutorial/errors.html
+* https://www.learnpython.dev/03-intermediate-python/40-exceptions/10-all-about-exceptions/
+* https://docs.python.org/3/tutorial/errors.html
 
 ### Config stuff
-https://docs.python.org/3.4/library/configparser.html
+* https://docs.python.org/3.4/library/configparser.html
 
 ### IDE/ML Autocompleter/Helper
-https://www.jetbrains.com/pycharm/
-https://kite.com/
+* https://www.jetbrains.com/pycharm/
+* https://kite.com/
 
 ### pep8
-https://www.python.org/dev/peps/pep-0008/
+* https://www.python.org/dev/peps/pep-0008/
 
 ### Testscase assertions/Tests
-https://www.learnpython.dev/03-intermediate-python/70-tests/50-writing-tests/#testcase-assertions
-https://www.learnpython.dev/03-intermediate-python/70-tests/50-writing-tests/
+* https://www.learnpython.dev/03-intermediate-python/70-tests/50-writing-tests/#testcase-assertions
+* https://www.learnpython.dev/03-intermediate-python/70-tests/50-writing-tests/
 
 ### OS, Sys and Subprocess (execute system cmds in/from python); useful
-https://docs.python.org/3/library/os.html
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/subprocess.html
+* https://docs.python.org/3/library/os.html
+* https://docs.python.org/3/library/sys.html
+* https://docs.python.org/3/library/subprocess.html
 
 ### Learn Python. Nina Zakharenko (MICROSOFT)
-https://www.learnpython.dev/
-https://github.com/nnja/python
+* https://www.learnpython.dev/
+* https://github.com/nnja/python
 
 ### Built in function
-https://data-flair.training/blogs/python-built-in-functions/
+* https://data-flair.training/blogs/python-built-in-functions/
 
 ### Learn Python the Right and Easy Way
 * https://docs.python.org/3/
@@ -72,5 +73,8 @@ https://data-flair.training/blogs/python-built-in-functions/
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK
 - https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA
 - https://www.youtube.com/playlist?list=PLTTTcaxrixZSh3TyvoEoTTbEHyS4c6Su7
+
+### IRC
+* Freenode: `#python`
 
 Note: I would prefer ~~newbies~~ to learn python3.X and don't learn 2.X as it ~~will be deprecated soon~~ is deprecated.(2020)
