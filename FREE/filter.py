@@ -21,6 +21,5 @@ scientists = (
 
 #pprint(scientists)
 
-data = filter(lambda x: x.nobel is False, scientists)
-print(next(data))
-print(next(data))
+data = tuple(filter(lambda x: x.nobel is False, scientists))
+pprint(data)
