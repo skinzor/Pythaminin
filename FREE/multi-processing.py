@@ -2,6 +2,7 @@ import collections
 import multiprocessing
 import time
 from pprint import pprint
+from os import getpid as process_id
 
 Scientist = collections.namedtuple('Scientist', [
     'name',
@@ -22,10 +23,10 @@ scientist = (
 
 
 def transform(x):
-    print(f'Processing record {x.name}')
-    time.sleep(2)
+    print(f'Process ID: {process_id()} | Processing record "{x.name}"')
+    time.sleep(1)
     result = {'name': x.name, 'age': 2019 - x.born}
-    print(f'Done processing {x.name}')
+    print(f'Process ID: {process_id()} | Done processing "{x.name}"')
     return result
 
 
