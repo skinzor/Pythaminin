@@ -32,7 +32,7 @@ def transform(x):
 
 def run():
     start_time = time.time()
-    pool = multiprocessing.Pool()
+    pool = multiprocessing.Pool(processes=len(scientist))
     result = pool.map(transform, scientist)
     end_time = time.time()
     print(f'\nTime to complete: {end_time - start_time:.2f}s\n')
