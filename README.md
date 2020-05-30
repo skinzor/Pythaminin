@@ -11,6 +11,7 @@ This repo contains all my python exercises
 * https://python.libhunt.com/
 * https://github.com/charlax/python-education
 * https://realpython.com/
+* https://docs.python-guide.org/
 
 ### Handy
 `python -i filename.py` <== executes the python file and after finishing it starts python interpreter in terminal.(cont)
