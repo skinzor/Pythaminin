@@ -33,11 +33,11 @@ def transform(x):
 def run():
     start_time = time.time()
 
-    with concurrent.futures.ThreadPoolExecutor() as E:
+#   with concurrent.futures.ThreadPoolExecutor() as E:
+#       result = E.map(transform, scientist)
+
+    with concurrent.futures.ProcessPoolExecutor() as E:
         result = E.map(transform, scientist)
-        
-    #with concurrent.futures.ProcessPoolExecutor() as E:
-    #    result = E.map(transform, scientist)
 
     end_time = time.time()
 
