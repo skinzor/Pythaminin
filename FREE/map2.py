@@ -25,3 +25,4 @@ name_and_age = tuple(map(
 ))
 
 pprint(name_and_age)
+pprint(tuple({'name': x.name, 'born': x.born} for x in scientists))
