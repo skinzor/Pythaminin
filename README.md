@@ -6,6 +6,7 @@ This repo contains all my python exercises
 </p>
 
 ### Ultimate resources
+* https://www.py4e.com/
 * https://pythondiscord.com/pages/resources/
 * https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 * https://python.libhunt.com/
